@@ -1,3 +1,3 @@
-# semantic-web
-# comparison model using python and semantics
-# portfolio : Semantic web
+### semantic-web
+### comparison model using python and semantics
+### portfolio : Semantic web
